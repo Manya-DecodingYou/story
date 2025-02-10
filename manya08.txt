@@ -1,1 +1,12 @@
-first git add then git commit 
+first gitinit
+the git add . 
+then git commit -m "msg"
+
+
+for branch 
+git branch manya
+git checkout manya
+
+
+to undo changes 
+git rm -caches 
